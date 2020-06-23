@@ -1,0 +1,58 @@
+/*Styling the body*/
+body{
+  background-color: #f5ffe4;
+}
+/*Styling the heading*/
+h1{
+  background-color: black;
+  padding: 5px;
+  margin: 10px;
+  border: 10px;
+  color: white;
+}
+/*Styling the horizontal tags*/
+#header{
+  border-top: 5px solid black;
+}
+hr{
+  border-top: 1px dashed black;
+}
+/*Styling the first paragraph*/
+#row1{
+  display: flex;
+}
+#column1{
+  flex: 50%;
+  padding: 5px;
+}
+/*Styling the second paragraph*/
+#row2{
+  display: flex;
+}
+#column2{
+  flex: 50%;
+  padding: 5px;
+}
+
+/*Styling the last images*/
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
+/*Styling the paragraphs*/
+p{
+  padding: 10px;
+  margin: 10px;
+}
+/*Styling the footer*/
+footer{
+  background-color: black;
+  text-align: center;
+  margin: 10px;
+  border: 10px;
+  color: white;
+}
